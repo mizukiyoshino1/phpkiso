@@ -29,5 +29,9 @@
         <!-- 送信する -->
         <input type="submit" value="送信">
     </form>
+    <h2>管理者用メニュー</h2>
+    <ul>
+        <li><a href="./view.php">お問合せ内容一覧</a></li>
+    </ul>
 </body>
 </html>
